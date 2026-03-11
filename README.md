@@ -1,12 +1,47 @@
-- 👋 Hi, I’m Ohenewaa
-- 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Assembly Language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/ohenewaa-ampem-darko-b84a65229
-- 😄 Pronouns: She/her
-- ⚡ Fun fact: God is good
+# 👋 Hi, I'm Ohenewaa Ampem Darko
 
-<!---
-Prinstar/Prinstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **B.S. Computer Science** @ Cal State East Bay (GPA: 3.95)  
+🔬 **McNair Scholar | Undergraduate Researcher**  
+💻 **Full-Stack Developer | ML Enthusiast**
+
+---
+
+## 🚀 About Me
+I build scalable full-stack applications and develop machine learning models that turn data into actionable insights.  
+I’m especially interested in backend systems, AI, and data-driven problem solving.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+`Python` `JavaScript` `C/C++` `Java` `SQL`
+
+**Frontend**  
+`React` `HTML` `CSS`
+
+**Backend**  
+`Node.js`
+
+**Databases**  
+`MongoDB`
+
+**ML / AI**  
+`PyTorch` `Hugging Face` `scikit-learn`
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Tech Store
+Full-stack platform with authentication, REST APIs, and checkout workflows.
+
+### 📊 Social Media Analytics Dashboard
+Full-stack analytics app — improved MongoDB query performance by **30%**.
+
+---
+
+## 📫 Connect With Me
+📧 prinstar.darko@gmail.com  
+🔗 [LinkedIn](YOUR_LINK_HERE)  
+💻 [Portfolio](YOUR_LINK_HERE)
