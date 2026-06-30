@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ohenewaa Ampem Darko
 
-🎓 **B.S. Computer Science** @ Cal State East Bay (GPA: 3.95)  
+🎓 **B.S. Computer Science graduate** @ Cal State East Bay (GPA: 3.95)  
 🔬 **McNair Scholar | Undergraduate Researcher**  
 💻 **Full-Stack Developer | ML Enthusiast**
 
@@ -15,7 +15,7 @@ I’m especially interested in backend systems, AI, and data-driven problem solv
 ## 🛠 Tech Stack
 
 **Languages**  
-`Python` `JavaScript` `C/C++` `Java` `SQL`
+`Python` `JavaScript` `TypeScript` `C/C++` `Java` `SQL`
 
 **Frontend**  
 `React` `HTML` `CSS`
@@ -43,5 +43,5 @@ Full-stack analytics app — improved MongoDB query performance by **30%**.
 
 ## 📫 Connect With Me
 📧 prinstar.darko@gmail.com  
-🔗 [LinkedIn](YOUR_LINK_HERE)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ohenewaa-ampem-darko-b84a65229/)  
 💻 [Portfolio](YOUR_LINK_HERE)
